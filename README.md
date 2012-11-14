@@ -1,0 +1,1 @@
+Цветовая схема для редактора <a href="http://www.sublimetext.com/2" target="_blank">Sublime Text 2</a>, основанная на схеме для редактора <a href="http://www.editplus.com/" target="_blank">Editplus</a>
